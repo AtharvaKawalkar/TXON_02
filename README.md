@@ -1,2 +1,2 @@
-# TXON_2
+# TXON_02
 In this project, I have created a simple calculator using HTML, CSS & Javascript.
